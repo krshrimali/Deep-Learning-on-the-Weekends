@@ -6,7 +6,7 @@
 
 **Authors** : Joseph Redmon, Ali Farhadi
 
-Recognizes 80 diff. objects in images & videos.
+Recognizes 80 different objects in images & videos.
 
 **Features:**
 
@@ -19,9 +19,9 @@ Recognizes 80 diff. objects in images & videos.
 
 **Object Detector** : Combination of Object Locator and Object Recognizer.
 
-### Traditionally :** 
+### Traditionally :
 
-1. Sliding Window : Used to look objects at diff. locations & scales (expensive
+1. Sliding Window : Used to look objects at different locations & scales (expensive
    operations) - aspect ratio of object - usually assumed to be fixed.
 
 2. R-CNN, Fast R-CNN : Used Selective Search - for - narrowing down number of
