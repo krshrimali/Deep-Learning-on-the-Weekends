@@ -12,3 +12,6 @@ Inspired by Daniel Shiffman's The Nature of Code Tutorials. This is my work on i
 3) It's not for someone's learning as of now. It's an open sourced work of mine, which I intend to on my week-ends (the week days work are in other repos, mainly of Computer Vision and Deep Learning). 
 
 4) For ease, I'll put the things I've changed in a log file in the specific folder. **File name : changelog.txt**
+
+
+**Most of the work will now be on https://www.github.com/krshrimali/Algorithms**
